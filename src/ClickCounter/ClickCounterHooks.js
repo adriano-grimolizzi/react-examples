@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const Example2 = (props) => {
+const Example2 = () => {
 
     const [count, setCount] = useState(0)
 
