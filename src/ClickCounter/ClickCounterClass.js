@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class Example1 extends Component {
+export default class ClickCounterClass extends Component {
 
     constructor(props) {
         super(props);

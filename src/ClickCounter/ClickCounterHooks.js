@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const Example2 = () => {
+const ClickCounterHooks = () => {
 
     const [count, setCount] = useState(0)
 
@@ -14,4 +14,4 @@ const Example2 = () => {
     )
 }
 
-export default Example2
+export default ClickCounterHooks
